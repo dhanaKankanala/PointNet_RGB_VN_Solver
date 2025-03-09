@@ -1,6 +1,6 @@
-**RGB VN-Solver using pointCloud Classification
+**RGB VN-Solver using pointCloud Classification**
 
-Overview**
+**Overview**
 
 This repository contains scripts for processing, training, testing, and visualizing point cloud data for graph classification. The project primarily focuses on differentiating between Hamiltonian and non-Hamiltonian graphs using deep learning techniques.
 
