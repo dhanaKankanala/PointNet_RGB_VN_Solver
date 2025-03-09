@@ -8,7 +8,7 @@ This repository contains scripts for processing, training, testing, and visualiz
 
 layout.py - Contains node positioning algorithms for graph drawing, extending NetworkX's layout functionalities.
 
-generate_fig_12feat.py - Generates 3D visualizations of point cloud graphs using different layouts such as circular, spiral, and elliptical.
+generate_figure_pointcloud.py - Generates 3D visualizations of point cloud graphs using different layouts such as circular, spiral, and elliptical.
 
 train_12feat.py - Implements training procedures for a deep learning model (PointNet) on 12-feature point cloud graph datasets.
 
